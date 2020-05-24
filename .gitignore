@@ -1,3 +1,9 @@
+#Ide Files
+.idea
+
+#V Env
+venv
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
